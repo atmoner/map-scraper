@@ -4,7 +4,7 @@
   git clone https://github.com/atmoner/map-scraper.git
   cd map-scraper
   yarn
-  yarn dev
+  node app.js
 ```
 
  
